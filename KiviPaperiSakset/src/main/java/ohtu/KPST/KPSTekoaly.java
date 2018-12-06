@@ -1,5 +1,7 @@
 package ohtu.KPST;
 
+import ohtu.tekoaly.Tekoaly;
+
 public class KPSTekoaly extends KPSTemplate {
 
 
@@ -11,5 +13,10 @@ public class KPSTekoaly extends KPSTemplate {
             tekoaly.asetaSiirto(ekanSiirto);
         }
         
+    }
+
+    @Override
+    protected void initialiseTekoaly() {
+        tekoaly=new Tekoaly();
     }
 }
