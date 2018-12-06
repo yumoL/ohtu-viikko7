@@ -1,0 +1,5 @@
+# Referaatti artikkelista Lean Primer
+
+Lean on alun perin japanilaisen autoyrityksen tuotannon ja tuotekehityksen menetelmä ja se on ruvettu soveltamaan viime vuosina myös muille aloille.  Leanin tavoitteena (goal) on saada asiakkaalle myyty tuote valmiiksi ideasta pysyvän nopealla tavalla. Jotta tavoite pystyy toteuttamaan, tulee Leanin perustana (foundation) olla lean-toimintatapa, jonka pitää tuntea kaikki Leanin menetelmässä työskentelevät , sekä johtajat että alaiset. Lean rakentuu kahden peruspilarin, eli jatkuvan parantamisen (continuous improvement) ja ihmisten kunnioittamisen (respect for people) varaan. 
+
+Leanin yhteydessä puhutaan JIT-tuotannosta ja pull-systeemistä, joilla tarkoitetaan, että tuotteita valmistetaan vasta kun asiakas niitä pyytää. JIT-tuotannon ja pull-systeemin avulla turhaa välivarastointia vältetään ja laatuongelmat paljastaan nopeasti. JIT-tuotannon ja pull-systeemin periaateena on “tehdä päätöksen mahdollisimman myöhässä”, jolloin päätösten takana on maksimaalinen tieto ja samalla muuttuviin tarpeisiin ehditään reagoimaan hyvin. 
